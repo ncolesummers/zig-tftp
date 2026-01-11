@@ -1,0 +1,3 @@
+.zig-cache/
+build/
+.DS_Store
